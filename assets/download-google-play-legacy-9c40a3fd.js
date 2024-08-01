@@ -1,0 +1,1 @@
+System.register([],(function(s,a){"use strict";return{execute:function(){s("_","/instoapply-pages/assets/app-logo-aa24951c.png"),s("a","/instoapply-pages/assets/download-app-store-bad51ee1.png"),s("b","/instoapply-pages/assets/download-google-play-2cf16a2b.png")}}}));

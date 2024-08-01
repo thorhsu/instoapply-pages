@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="申請賣家" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1024-signup-done" transform="translate(-408.000000, -565.000000)">
+            <g id="Group-4" transform="translate(280.000000, 565.000000)">
+                <g id="Group-2" transform="translate(128.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#00C8FF" x="0" y="0" width="14" height="14" rx="7"></rect>
+                    <g id="ic_tick-3-copy-2" transform="translate(7.111111, 6.962963) scale(1, -1) rotate(-90.000000) translate(-7.111111, -6.962963) translate(4.592593, 5.296296)" stroke="#FFFFFF" stroke-linecap="round">
+                        <g id="ic_tick-2" transform="translate(0.000000, -0.000000)">
+                            <g id="tick" transform="translate(0.000000, -0.000000)">
+                                <line x1="0" y1="0.370370368" x2="2.37037035" y2="2.74074072" id="Line"></line>
+                                <line x1="2.37037035" y1="2.74074072" x2="4.88888885" y2="0.222222221" id="Line"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

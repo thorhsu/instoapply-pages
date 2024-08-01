@@ -1,0 +1,1 @@
+const s="/instoapply-pages/assets/app-logo-aa24951c.png",a="/instoapply-pages/assets/download-app-store-bad51ee1.png",p="/instoapply-pages/assets/download-google-play-2cf16a2b.png";export{s as _,a,p as b};

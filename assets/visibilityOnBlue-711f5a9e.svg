@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>visibilityOnBlue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="visibilityOnBlue" stroke="#2FCBFF" stroke-width="1.5">
+            <g id="visibility" transform="translate(3.000000, 5.000000)">
+                <path d="M0.833364,6.999997 C1.6054812,3.196263 4.968404,0.33333 9,0.33333 C13.031594,0.33333 16.394524,3.196263 17.166634,6.999997 C16.394524,10.80373 13.031594,13.66666 9,13.66666 C4.968404,13.66666 1.6054812,10.80373 0.833364,6.999997 Z" id="Stroke-1"></path>
+                <path d="M9,9.5 C10.380712,9.5 11.5,8.380712 11.5,7 C11.5,5.619288 10.380712,4.5 9,4.5 C7.619288,4.5 6.5,5.619288 6.5,7 C6.5,8.380712 7.619288,9.5 9,9.5 Z" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>question</title>
+    <defs>
+        <polygon id="path-1" points="0 0 1.6 0 1.6 1.599984 0 1.599984"></polygon>
+    </defs>
+    <g id="question" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#B9B9B9" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" cx="10" cy="10" r="8"></circle>
+        <g id="Group-3" transform="translate(9.200000, 13.300016)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M0.8,0 C1.241824,0 1.6,0.358144 1.6,0.8 C1.6,1.241824 1.241824,1.6 0.8,1.6 C0.358176,1.6 0,1.241824 0,0.8 C0,0.358144 0.358176,0 0.8,0" id="Fill-1" fill="#B9B9B9" mask="url(#mask-2)"></path>
+        </g>
+        <path d="M7,8.34761905 C7,8.76841905 7.335775,9.10952381 7.75,9.10952381 C8.164225,9.10952381 8.5,8.76841905 8.5,8.34761905 C8.5,7.50739048 9.1729,6.82380952 10,6.82380952 C10.8271,6.82380952 11.5,7.50739048 11.5,8.34761905 C11.5,9.18784762 10.8271,9.87142857 10,9.87142857 C9.585775,9.87142857 9.25,10.2125333 9.25,10.6333333 L9.25,12.0380952 C9.25,12.4588952 9.585775,12.8 10,12.8 C10.414225,12.8 10.75,12.4588952 10.75,12.0380952 L10.75,11.298819 C12.042475,10.9596571 13,9.76510476 13,8.34761905 C13,6.6671619 11.6542,5.3 10,5.3 C8.3458,5.3 7,6.6671619 7,8.34761905 Z" id="Fill-4" fill="#B9B9B9"></path>
+    </g>
+</svg>
